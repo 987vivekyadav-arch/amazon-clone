@@ -1,0 +1,27 @@
+.hero{
+    text-align: center;
+    padding: 20px
+    ;
+    background-color: #f4f4f4;}
+   .hero img{
+    width: 100%;
+    max-width: 1300px;
+    height: 350px;
+    margin-bottom: 20px;
+object-fit:cover;}
+
+    .hero p{
+        font-size: 50px;
+        color: #333;
+        margin-bottom: 20px;
+    font-family:cursive
+    }
+    .hero button{
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        font-size: 50px;
+        cursor: pointer;
+    font-family:cursive
+    }

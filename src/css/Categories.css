@@ -1,0 +1,22 @@
+.categories{
+    padding: 30px;
+}
+
+.categories h2{
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family:cursive
+}.categories ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}.categories button{
+    background-color: #289c62;
+    padding: 20px;
+    border-radius: 25px;
+    flex: 1 1 calc(33.33% - 20px);
+    text-align: center;
+    font-family:cursive
+}

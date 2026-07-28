@@ -1,0 +1,33 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+}
+.navbar h1,
+.navbar h2{
+
+    color: #fff;
+    margin: 0;
+    font-family:cursive
+}.navbar input{
+    width:400px;
+    padding: 8px;
+    }
+    .navbar botton{
+        padding: 8px 16px;
+        font-family:cursive;
+        
+        
+        
+        
+    
+        cursor: pointer;
+    }
+
+
+
+
+
+    
