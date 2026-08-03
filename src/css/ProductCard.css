@@ -1,6 +1,6 @@
 .product-card{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     border: 1px solid #ccc;
@@ -32,8 +32,9 @@
 @media (max-width: 768px){
 
     .product-card{
-        width: 90%;
+        width: 30%;
         margin: 15px auto;
+         flex-direction: row;
     }
 
     .product-card img{
